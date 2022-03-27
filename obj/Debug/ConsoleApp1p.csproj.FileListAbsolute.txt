@@ -1,0 +1,40 @@
+C:\Users\Aluno\Documents\PregVis_Tales\ConsoleApp1p\bin\Debug\ConsoleApp1p.exe.config
+C:\Users\Aluno\Documents\PregVis_Tales\ConsoleApp1p\bin\Debug\ConsoleApp1p.exe
+C:\Users\Aluno\Documents\PregVis_Tales\ConsoleApp1p\bin\Debug\ConsoleApp1p.pdb
+C:\Users\Aluno\Documents\PregVis_Tales\ConsoleApp1p\obj\Debug\ConsoleApp1p.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\PregVis_Tales\ConsoleApp1p\obj\Debug\ConsoleApp1p.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\PregVis_Tales\ConsoleApp1p\obj\Debug\ConsoleApp1p.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\PregVis_Tales\ConsoleApp1p\obj\Debug\ConsoleApp1p.exe
+C:\Users\Aluno\Documents\PregVis_Tales\ConsoleApp1p\obj\Debug\ConsoleApp1p.pdb
+C:\Users\vitor\Desktop\ConsoleApp1p\obj\Debug\ConsoleApp1p.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\ConsoleApp1p\obj\Debug\ConsoleApp1p.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\ConsoleApp1p\obj\Debug\ConsoleApp1p.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\ConsoleApp1p\obj\Debug\ConsoleApp1p.exe
+C:\Users\vitor\Desktop\ConsoleApp1p\obj\Debug\ConsoleApp1p.pdb
+C:\Users\vitor\Desktop\ConsoleApp1p\bin\Debug\ConsoleApp1p.exe.config
+C:\Users\vitor\Desktop\ConsoleApp1p\bin\Debug\ConsoleApp1p.exe
+C:\Users\vitor\Desktop\ConsoleApp1p\bin\Debug\ConsoleApp1p.pdb
+C:\Users\vitor\Desktop\Programinha do BalacoBaco\bin\Debug\ConsoleApp1p.exe.config
+C:\Users\vitor\Desktop\Programinha do BalacoBaco\bin\Debug\ConsoleApp1p.exe
+C:\Users\vitor\Desktop\Programinha do BalacoBaco\bin\Debug\ConsoleApp1p.pdb
+C:\Users\vitor\Desktop\Programinha do BalacoBaco\obj\Debug\ConsoleApp1p.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Programinha do BalacoBaco\obj\Debug\ConsoleApp1p.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Programinha do BalacoBaco\obj\Debug\ConsoleApp1p.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Programinha do BalacoBaco\obj\Debug\ConsoleApp1p.exe
+C:\Users\vitor\Desktop\Programinha do BalacoBaco\obj\Debug\ConsoleApp1p.pdb
+C:\Users\vitor\Desktop\Se uma força maior existe, ela fez esse programa\bin\Debug\ConsoleApp1p.exe.config
+C:\Users\vitor\Desktop\Se uma força maior existe, ela fez esse programa\bin\Debug\ConsoleApp1p.exe
+C:\Users\vitor\Desktop\Se uma força maior existe, ela fez esse programa\bin\Debug\ConsoleApp1p.pdb
+C:\Users\vitor\Desktop\Se uma força maior existe, ela fez esse programa\obj\Debug\ConsoleApp1p.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Se uma força maior existe, ela fez esse programa\obj\Debug\ConsoleApp1p.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Se uma força maior existe, ela fez esse programa\obj\Debug\ConsoleApp1p.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Se uma força maior existe, ela fez esse programa\obj\Debug\ConsoleApp1p.exe
+C:\Users\vitor\Desktop\Se uma força maior existe, ela fez esse programa\obj\Debug\ConsoleApp1p.pdb
+C:\Users\vitor\Desktop\Trabalho ProgVis\bin\Debug\ConsoleApp1p.exe.config
+C:\Users\vitor\Desktop\Trabalho ProgVis\bin\Debug\ConsoleApp1p.exe
+C:\Users\vitor\Desktop\Trabalho ProgVis\bin\Debug\ConsoleApp1p.pdb
+C:\Users\vitor\Desktop\Trabalho ProgVis\obj\Debug\ConsoleApp1p.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Trabalho ProgVis\obj\Debug\ConsoleApp1p.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Trabalho ProgVis\obj\Debug\ConsoleApp1p.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Trabalho ProgVis\obj\Debug\ConsoleApp1p.exe
+C:\Users\vitor\Desktop\Trabalho ProgVis\obj\Debug\ConsoleApp1p.pdb

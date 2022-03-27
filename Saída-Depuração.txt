@@ -1,0 +1,3 @@
+﻿"ConsoleApp1p.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"ConsoleApp1p.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\Users\vitor\Desktop\ConsoleApp1p\bin\Debug\ConsoleApp1p.exe". Símbolos carregados.
+O programa "[12796] ConsoleApp1p.exe" foi fechado com o código 0 (0x0).
